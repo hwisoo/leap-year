@@ -37,4 +37,4 @@ _CSS_
 
 *{Using MIT license}*
 
-Copyright (c) 2018 **_{Patricia Filipovic, James Cho_**
+Copyright (c) 2018 **_Patricia Filipovic, James Cho_**
